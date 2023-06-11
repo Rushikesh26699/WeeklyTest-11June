@@ -1,0 +1,24 @@
+.navbar{
+    /* border: 2px solid red; */
+    height: 4rem;
+    background-color: black;
+    display: flex;
+
+    
+    
+}
+.navbar button{
+    color: white;
+    border: none;
+    background-color: transparent;
+    width: 100px;
+    height: 2rem;
+    font-size: large;
+    /* border: 1px solid red; */
+    cursor: pointer;
+}
+.nav2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
